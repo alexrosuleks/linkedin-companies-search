@@ -1,0 +1,11 @@
+{
+  "keyword": "software",
+  "limit": 10,
+  "page_number": 1,
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}

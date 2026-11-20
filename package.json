@@ -1,0 +1,20 @@
+{
+  "name": "linkedin-companies-search",
+  "version": "1.0.0",
+  "private": true,
+  "description": "LinkedIn Company Search: Search LinkedIn companies by keyword, industry and location and scrape public profiles: size, industry, HQ and website. No cookies needed. Export to CSV.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "linkedin"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}
